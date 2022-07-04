@@ -1,3 +1,8 @@
+# Matrix Multiplication
+# Elizabeth Fugikawa, summer 2022
+
+# implement matrix multiplication from scratch
+
 def printMatrix(m):
     for row in m:
         print(row)

@@ -1,5 +1,8 @@
-# RSA Cracking
+# RSA Encryption Cracking
 # Elizabeth Fugikawa, summer 2022
+
+# understand how quickly run times for exponential O(2**n) algorithms grow
+
 import random
 from math import sqrt
 from time import time

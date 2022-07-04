@@ -1,4 +1,8 @@
-#Sorting Algorithms and Run Times
+# Sorting Algorithms and Run Times
+# Elizabeth Fugikawa, summer 2022
+
+# test the run times of three different sort implementations
+
 import random
 from time import time
 
